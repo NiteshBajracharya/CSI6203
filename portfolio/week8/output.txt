@@ -1,0 +1,10 @@
+    \033[31mERROR:\033[0m $1
+this is the start of the script
+Thank you!
+Thank you
+    \033{31mERROR:\033[0m $1
+        Right !
+        too high
+        too low
+    \033[31mERROR: \033[31m$VAR1
+    The are of the triangle with the base: $1 and height: $2 is:  $(($1*$2/2))
